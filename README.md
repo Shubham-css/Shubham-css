@@ -11,4 +11,3 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Shubham-css&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham-css&layout=compact&theme=tokyonight)
-![](https://streak-stats.demolab.com?user=Shubham-css&theme=tokyonight&mode=weekly)
