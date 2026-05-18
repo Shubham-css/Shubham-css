@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on AI + IoT projects<br><br>👯 I’m looking to collaborate on Machine Learning, Django, and Full-Stack Web Apps<br><br>🤝 I’m looking for help with optimizing ML models & deploying scalable applications using DevOps<br><br>🌱 I’m currently learning Deep Learning, System Design, and Cloud Deployment<br><br>💬 Ask me about Python, Django, IoT, Machine Learning, and REST APIs<br><br>⚡ Fun fact: I love turning real-world problems into deployable AI solutions<br>
+🔭 I’m currently working on AIML + IoT projects<br><br>👯 I’m looking to collaborate on Machine Learning, Django, and Full-Stack Web Apps<br><br>🤝 I’m looking for help with optimizing ML models & deploying scalable applications using DevOps<br><br>🌱 I’m currently learning Deep Learning, System Design, and Cloud Deployment<br><br>💬 Ask me about Python, Django, IoT, Machine Learning, and REST APIs<br><br>⚡ Fun fact: I love turning real-world problems into deployable AI solutions<br>
 
 
 ## 🌐 Socials:
